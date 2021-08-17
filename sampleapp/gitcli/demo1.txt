@@ -1,0 +1,3 @@
+welcome to cli
+hello
+good afternoon
